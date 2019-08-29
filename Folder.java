@@ -4,8 +4,6 @@ import java.util.Iterator;
 /**
  * A Folder is a file system entry that can store an unbounded number of
  * entries.
- *
- * @author Roman Kontchakov
  * @author Sandro Bellini
  */
 public class Folder extends AbstractEntry {
